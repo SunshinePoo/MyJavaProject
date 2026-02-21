@@ -1,3 +1,4 @@
+# My Change
 # Simple UI App - Web Version with Selenium Tests
 
 This project converts the original Swing-based SimpleUIApp to a Spring Boot web application with automated Selenium tests using TestNG.
